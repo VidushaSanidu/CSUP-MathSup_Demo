@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CSUP-MathSup_Demo/static/css/main.7dbcba03.css",
+    "main.js": "/CSUP-MathSup_Demo/static/js/main.efc1da59.js",
+    "static/media/logo1.jpg": "/CSUP-MathSup_Demo/static/media/logo1.f295a0ad9d344da942de.jpg",
+    "static/media/logo.jpg": "/CSUP-MathSup_Demo/static/media/logo.8fc5314df0f60185eb03.jpg",
+    "index.html": "/CSUP-MathSup_Demo/index.html",
+    "main.7dbcba03.css.map": "/CSUP-MathSup_Demo/static/css/main.7dbcba03.css.map",
+    "main.efc1da59.js.map": "/CSUP-MathSup_Demo/static/js/main.efc1da59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbcba03.css",
+    "static/js/main.efc1da59.js"
+  ]
+}
